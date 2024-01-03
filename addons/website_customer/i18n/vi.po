@@ -89,7 +89,7 @@ msgstr "Liên hệ"
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.snippet_options
 msgid "Countries Filter"
-msgstr ""
+msgstr "Bộ lọc quốc gia"
 
 #. module: website_customer
 #: model_terms:ir.actions.act_window,help:website_customer.action_partner_tag_form
@@ -124,7 +124,7 @@ msgstr "Thực hiện bởi"
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.snippet_options
 msgid "Industry Filter"
-msgstr ""
+msgstr "Bộ lọc ngành"
 
 #. module: website_customer
 #: model:ir.model.fields,field_description:website_customer.field_res_partner_tag__is_published
@@ -195,7 +195,7 @@ msgstr "Các tham chiếu"
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.snippet_options
 msgid "References Page"
-msgstr ""
+msgstr "Trang tham chiếu"
 
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.opt_country_list
@@ -225,7 +225,7 @@ msgstr "Tìm kiếm thẻ đối tác"
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.snippet_options
 msgid "Show Map"
-msgstr ""
+msgstr "Hiển thị bản đồ"
 
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.snippet_options
