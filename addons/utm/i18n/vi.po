@@ -58,7 +58,7 @@ msgstr "Đã lưu trữ"
 #. module: utm
 #: model_terms:ir.actions.act_window,help:utm.action_view_utm_tag
 msgid "Assign tags to your campaigns to organize, filter and track them."
-msgstr ""
+msgstr "Gán thẻ lên chiến dịch của bạn để sắp xếp, tìm kiếm và theo dõi chúng."
 
 #. module: utm
 #. openerp-web
@@ -80,7 +80,7 @@ msgstr "Chiến dịch"
 #. module: utm
 #: model:ir.model.fields,field_description:utm.field_utm_campaign__name
 msgid "Campaign Identifier"
-msgstr ""
+msgstr "Định danh chiến dịch"
 
 #. module: utm
 #: model:ir.model.fields,field_description:utm.field_utm_campaign__title
@@ -144,7 +144,7 @@ msgstr "Được viết bởi"
 #. module: utm
 #: model_terms:ir.actions.act_window,help:utm.utm_medium_action
 msgid "Create a Medium"
-msgstr ""
+msgstr "Tạo phương thức"
 
 #. module: utm
 #: model_terms:ir.actions.act_window,help:utm.action_view_utm_tag
@@ -245,12 +245,12 @@ msgstr "Sửa"
 #. module: utm
 #: model:utm.campaign,title:utm.utm_campaign_email_campaign_products
 msgid "Email Campaign - Products"
-msgstr ""
+msgstr "Email chiến dịch - Sản phẩm"
 
 #. module: utm
 #: model:utm.campaign,title:utm.utm_campaign_email_campaign_services
 msgid "Email Campaign - Services"
-msgstr ""
+msgstr "Email chiến dịch - Dịch vụ"
 
 #. module: utm
 #. openerp-web
@@ -264,7 +264,7 @@ msgstr "Event-driven Flow"
 #: code:addons/utm/static/src/js/utm_campaign_kanban_examples.js:0
 #, python-format
 msgid "Gather Data"
-msgstr "Gather Data"
+msgstr "Thu thập dữ liệu"
 
 #. module: utm
 #. openerp-web
@@ -274,8 +274,8 @@ msgid ""
 "Gather data, build a recipient list and write content based on your "
 "Marketing target."
 msgstr ""
-"Gather data, build a recipient list and write content based on your "
-"Marketing target."
+"Thu thập dữ liệu, xây dựng tập người nhận và viết nội dung dự trên "
+"mục tiêu Marketing của bạn."
 
 #. module: utm
 #: model_terms:ir.ui.view,arch_db:utm.view_utm_campaign_view_search
@@ -531,8 +531,8 @@ msgid ""
 "Stages allow you to organize your workflow  (e.g. : plan, design, in "
 "progress,  done, …)."
 msgstr ""
-"Stages allow you to organize your workflow  (e.g. : plan, design, in "
-"progress,  done, …)."
+"Giai đoạn cho phép bạn sắp xếp luồng công việc (e.g. : lên kế hoạch, "
+"thiết kế, đang thực hiện,  hoàn thành, …)."
 
 #. module: utm
 #: model:ir.model.fields,help:utm.field_utm_tag__color
@@ -540,6 +540,8 @@ msgid ""
 "Tag color. No color means no display in kanban to distinguish internal tags "
 "from public categorization tags."
 msgstr ""
+"Màu thẻ. Không có màu nghĩa là không hiển thị trên kanban để phân biệt thẻ "
+"nội bộ và thẻ danh mục công cộng."
 
 #. module: utm
 #: model:ir.model.constraint,message:utm.constraint_utm_tag_name_uniq
@@ -558,13 +560,15 @@ msgid ""
 "The UTM medium '%s' cannot be deleted as it is used in some main functional "
 "flows, such as the recruitment and the mass mailing."
 msgstr ""
+"Phương thức UTM '%s' không thể bị xóa vì nó đang được sử dụng trong một số "
+"chức năng chính, như là tuyển dụng hay gửi mail hàng loạt."
 
 #. module: utm
 #: model:ir.model.constraint,message:utm.constraint_utm_campaign_unique_name
 #: model:ir.model.constraint,message:utm.constraint_utm_medium_unique_name
 #: model:ir.model.constraint,message:utm.constraint_utm_source_unique_name
 msgid "The name must be unique"
-msgstr ""
+msgstr "Tên phải là duy nhất"
 
 #. module: utm
 #. openerp-web
@@ -644,6 +648,8 @@ msgid ""
 "UTM Mediums track the mean that was used to attract traffic (e.g. "
 "\"Website\", \"Twitter\", ...)."
 msgstr ""
+"Phương thức UTM theo dõi giá trị trung bình được sử dụng để thu hút "
+"lưu lượng truy cập (ví dụ: \"Website\", \"Twitter\", ...)."
 
 #. module: utm
 #: model:ir.model,name:utm.model_utm_mixin
@@ -666,6 +672,8 @@ msgid ""
 "UTM Sources track where traffic comes from  (e.g. \"May Newsletter\", \"\", "
 "...)."
 msgstr ""
+"Nguồn UTM theo dõi lưu lượng truy cập tới từ (ví dụ: \"May Newsletter\", \"\", "
+"...)."
 
 #. module: utm
 #: model:ir.actions.act_window,name:utm.action_view_utm_stage
