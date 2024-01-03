@@ -35,7 +35,7 @@ msgstr ""
 #: code:addons/web_tour/static/src/js/tip.js:0
 #, python-format
 msgid "Click here to go to the next step."
-msgstr ""
+msgstr "Bấm vào đây tới bước tiếp theo."
 
 #. module: web_tour
 #. openerp-web
@@ -93,7 +93,7 @@ msgstr "Tên"
 #: code:addons/web_tour/static/src/debug/tour_dialog_component.xml:0
 #, python-format
 msgid "Onboarding tours"
-msgstr ""
+msgstr "Tours Giới thiệu"
 
 #. module: web_tour
 #. openerp-web
@@ -165,7 +165,7 @@ msgstr "Test tour"
 #: code:addons/web_tour/static/src/debug/tour_dialog_component.xml:0
 #, python-format
 msgid "Testing tours"
-msgstr ""
+msgstr "Tours kiểm tra"
 
 #. module: web_tour
 #: model_terms:ir.ui.view,arch_db:web_tour.edit_tour_search
