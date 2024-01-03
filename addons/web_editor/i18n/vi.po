@@ -301,14 +301,14 @@ msgstr "Thêm một code section."
 #: code:addons/web_editor/static/src/xml/editor.xml:0
 #, python-format
 msgid "Add a column left"
-msgstr ""
+msgstr "Thêm một cột trái"
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/editor.xml:0
 #, python-format
 msgid "Add a column right"
-msgstr ""
+msgstr "Thêm một cột phải"
 
 #. module: web_editor
 #. odoo-javascript
@@ -322,14 +322,14 @@ msgstr "Thêm một liên kết."
 #: code:addons/web_editor/static/src/xml/editor.xml:0
 #, python-format
 msgid "Add a row above"
-msgstr ""
+msgstr "Thêm một hàng phía trên"
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/editor.xml:0
 #, python-format
 msgid "Add a row below"
-msgstr ""
+msgstr "Thêm một hàng phía dưới"
 
 #. module: web_editor
 #. odoo-javascript
@@ -541,7 +541,7 @@ msgstr "Dưới"
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Big section heading."
-msgstr ""
+msgstr "Section heading lớn"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options_background_options
@@ -739,7 +739,7 @@ msgstr "Xác nhận"
 #: code:addons/web_editor/static/src/js/wysiwyg/wysiwyg.js:0
 #, python-format
 msgid "Content conflict"
-msgstr ""
+msgstr "Xung đột nội dung"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options_image_optimization_widgets
@@ -751,21 +751,21 @@ msgstr "Độ tương phản"
 #: code:addons/web_editor/static/src/js/wysiwyg/wysiwyg.js:0
 #, python-format
 msgid "Convert into 2 columns."
-msgstr ""
+msgstr "Chuyển thành 2 cột."
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/wysiwyg/wysiwyg.js:0
 #, python-format
 msgid "Convert into 3 columns."
-msgstr ""
+msgstr "Chuyển thành 3 cột."
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/wysiwyg/wysiwyg.js:0
 #, python-format
 msgid "Convert into 4 columns."
-msgstr ""
+msgstr "Chuyển thành 4 cột."
 
 #. module: web_editor
 #. odoo-javascript
@@ -805,14 +805,14 @@ msgstr "Tạo"
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Create a list with numbering."
-msgstr ""
+msgstr "Tạo một danh sách đánh số."
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Create a simple bulleted list."
-msgstr ""
+msgstr "Tạo một danh sách dấu đầu dòng."
 
 #. module: web_editor
 #. odoo-javascript
@@ -914,7 +914,7 @@ msgstr "Xóa %s"
 #: code:addons/web_editor/static/src/xml/editor.xml:0
 #, python-format
 msgid "Delete current table"
-msgstr ""
+msgstr "Xóa bảng hiện tại"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1024,7 +1024,7 @@ msgstr "EarlyBird"
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
 msgid "Edit Link"
-msgstr ""
+msgstr "Sửa đường dẫn"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options_background_options
@@ -1206,7 +1206,7 @@ msgstr "Hình nổi"
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options
 msgid "Floats"
-msgstr ""
+msgstr "Nổi"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1546,28 +1546,28 @@ msgstr "Văn bản nội tuyến"
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Insert a rating over 3 stars."
-msgstr ""
+msgstr "Chèn đánh giá 3 sao."
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Insert a rating over 5 stars."
-msgstr ""
+msgstr "Chèn đánh giá 5 sao."
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Insert a table."
-msgstr ""
+msgstr "Chèn một bảng"
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/wysiwyg/wysiwyg.js:0
 #, python-format
 msgid "Insert a video."
-msgstr ""
+msgstr "Chèn một video"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1581,14 +1581,14 @@ msgstr "Chèn bên trên"
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Insert an horizontal rule separator."
-msgstr ""
+msgstr "Chèn dấu phân cách quy tắc ngang"
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/wysiwyg/wysiwyg.js:0
 #, python-format
 msgid "Insert an image."
-msgstr ""
+msgstr "Chèn một ảnh"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1637,14 +1637,14 @@ msgstr "Chèn bên phải"
 #: code:addons/web_editor/static/src/xml/editor.xml:0
 #, python-format
 msgid "Insert table"
-msgstr ""
+msgstr "Chèn bảng"
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/wysiwyg/wysiwyg.js:0
 #, python-format
 msgid "Insert your signature."
-msgstr ""
+msgstr "Chèn chữ ký của bạn"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1838,7 +1838,7 @@ msgstr "Trung bình"
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Medium section heading."
-msgstr ""
+msgstr "Section heading vừa."
 
 #. module: web_editor
 #. odoo-javascript
@@ -2064,7 +2064,7 @@ msgstr "Tuỳ chọn trang"
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Paragraph block."
-msgstr ""
+msgstr "Đoạn văn bản"
 
 #. module: web_editor
 #. odoo-javascript
@@ -2253,7 +2253,7 @@ msgstr "Gỡ"
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
 msgid "Remove Link"
-msgstr ""
+msgstr "Xóa đường dẫn"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.colorpicker
@@ -2272,14 +2272,14 @@ msgstr "Gỡ cột"
 #: code:addons/web_editor/static/src/xml/editor.xml:0
 #, python-format
 msgid "Remove current column"
-msgstr ""
+msgstr "Xóa cột hiện tại"
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/editor.xml:0
 #, python-format
 msgid "Remove current row"
-msgstr ""
+msgstr "Xóa dòng hiện tại"
 
 #. module: web_editor
 #. odoo-javascript
@@ -2659,7 +2659,7 @@ msgstr "Nhỏ"
 #: code:addons/web_editor/static/src/js/editor/odoo-editor/src/OdooEditor.js:0
 #, python-format
 msgid "Small section heading."
-msgstr ""
+msgstr "Section heading nhỏ"
 
 #. module: web_editor
 #. odoo-javascript
@@ -2857,6 +2857,8 @@ msgid ""
 "The version from the database will be used.\n"
 "                    If you need to keep your changes, copy the content below and edit the new document."
 msgstr ""
+"Phiên bản được lưu trong cơ sở dữ liệu sẽ được sử dụng.\n"
+"                    Nếu bạn cần giữ lại thay đổi, sao chép nội dung phía dưới và chỉnh sửa tài liệu mới."
 
 #. module: web_editor
 #. odoo-javascript
